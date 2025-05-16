@@ -1,4 +1,5 @@
 - [ ] Helm Repo
   - sftpgo
 - [ ] elercx.com
+- [ ] admin account sftpgo
 - [ ] any maintenance tasks you are actively doing?
